@@ -1,0 +1,1 @@
+cat filter.md | cut -d' ' -f11 |grep [0-999.0-999.0-999.0-999] | sort -r | uniq -c
